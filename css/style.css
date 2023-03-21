@@ -1,0 +1,155 @@
+body {
+    overflow-x: hidden;
+}
+
+a {
+    color:inherit;
+}
+
+h1 {
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+hr {
+    border:10px dotted #030202;
+    width: 50%;
+    border-bottom: none;
+    margin: 50px auto;
+}
+
+.heading {
+    background-color: #2C9C9C ;
+}
+
+.nav-img {
+    width: 130px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.navbar {
+    padding: 20px 4.5rem ;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.collapse {
+    margin: 0 0 0 400px;
+}
+
+.nav-link {
+    color: white;
+    font-weight: bold;
+}
+
+.intro {
+    padding:100px 12px 240px 12px;
+    margin:50px 0 0 100px;
+    height:430px;
+}
+
+.intro-font {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size: 40px;
+    color:white;
+    font-weight: bold;  
+}
+
+.pfp-img {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    border-radius: 100%;
+}
+
+.education-info {
+    margin-top: 50px;
+}
+
+#education p {
+    color:black;
+    font-weight: bold; 
+    text-align: center;
+}
+
+.edu-school {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size: 40px;
+}
+
+.edu-year {
+    font-family: 'Fasthand', cursive;
+    font-size: 40px;
+}
+
+.edu-description {
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+
+
+.colored-section {
+    background-color: 	#66BFBF;
+    padding : 50px 50px 50px 80px; 
+}
+
+.colored-section h2,h3{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size: 40px;
+    font-weight: bold;  
+    text-align: center;
+    color:white;
+}
+
+.lang-img {
+    width: 10%;
+    border-radius: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+}
+
+.w-section {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#skills p {
+    color:black;
+    font-weight: bold; 
+    text-align: center;
+}
+
+.web3-img {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.footer {
+    background-color: #2C9C9C ;
+    padding: 50px 0 50px 45%;
+}
+
+.social-icons {
+    margin: 1%;
+}
+
+
+.copy {
+    margin-top: 1%;
+    margin-left: 1%;
+    font-size: 20px;
+}
+
+.social-icons:hover {
+    color: #1DA1F2;
+}
+
