@@ -153,3 +153,12 @@ hr {
     color: #1DA1F2;
 }
 
+
+
+@media only screen and (max-width: 995px){
+    
+    .intro {
+        padding-top: 0px;
+    }
+
+}
