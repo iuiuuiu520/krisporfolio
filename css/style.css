@@ -158,7 +158,7 @@ hr {
 @media only screen and (max-width: 995px){
     
     .intro {
-        padding-top: 0px;
+        margin-bottom: 150px;
     }
 
 }
